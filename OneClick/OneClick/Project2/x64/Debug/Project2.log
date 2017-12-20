@@ -1,0 +1,29 @@
+﻿  WinMain.c
+c:\users\user\desktop\1411_안병관\1411_안병관\project2\winmain.h(12): warning C4133: '초기화 중': 'unsigned short [7]'과(와) 'LPCSTR' 사이의 형식이 호환되지 않습니다.
+c:\users\user\desktop\1411_안병관\1411_안병관\project2\winmain.h(12): warning C4133: '초기화 중': 'unsigned short [6]'과(와) 'LPCSTR' 사이의 형식이 호환되지 않습니다.
+c:\users\user\desktop\1411_안병관\1411_안병관\project2\winmain.c(108): warning C4133: '함수': 'char [5]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+c:\users\user\desktop\1411_안병관\1411_안병관\project2\winmain.c(110): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+c:\users\user\desktop\1411_안병관\1411_안병관\project2\winmain.c(188): warning C4244: '초기화 중': 'LRESULT'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\1411_안병관\1411_안병관\project2\winmain.c(264): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+c:\users\user\desktop\1411_안병관\1411_안병관\project2\winmain.c(267): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+c:\users\user\desktop\1411_안병관\1411_안병관\project2\winmain.c(270): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+c:\users\user\desktop\1411_안병관\1411_안병관\project2\winmain.c(273): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+c:\users\user\desktop\1411_안병관\1411_안병관\project2\winmain.c(276): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+c:\users\user\desktop\1411_안병관\1411_안병관\project2\winmain.c(279): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+c:\users\user\desktop\1411_안병관\1411_안병관\project2\winmain.c(308): warning C4047: '초기화 중': 'BOOL'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\user\desktop\1411_안병관\1411_안병관\project2\winmain.c(305): warning C4101: 'fHandle' :참조되지 않은 지역 변수입니다.
+c:\users\user\desktop\1411_안병관\1411_안병관\project2\winmain.c(467): warning C4133: '함수': 'LPCSTR'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+c:\users\user\desktop\1411_안병관\1411_안병관\project2\winmain.c(467): warning C4312: '형식 캐스팅': 'int'에서 더 큰 'HMENU'(으)로의 변환입니다.
+  FileIO.c
+c:\users\user\desktop\1411_안병관\1411_안병관\project2\fileio.c(20): warning C4267: '함수': 'size_t'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\1411_안병관\1411_안병관\project2\fileio.c(34): warning C4133: '함수': 'char [1]'과(와) 'const wchar_t *' 사이의 형식이 호환되지 않습니다.
+c:\users\user\desktop\1411_안병관\1411_안병관\project2\fileio.c(37): warning C4047: '함수': 'const wchar_t *'의 간접 참조 수준이 'LPCTSTR *'과(와) 다릅니다.
+c:\users\user\desktop\1411_안병관\1411_안병관\project2\fileio.c(37): warning C4024: '_wfopen_s': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+c:\users\user\desktop\1411_안병관\1411_안병관\project2\fileio.c(37): warning C4047: '!=': 'errno_t'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\user\desktop\1411_안병관\1411_안병관\project2\fileio.c(31): warning C4101: 'fHandle' :참조되지 않은 지역 변수입니다.
+c:\users\user\desktop\1411_안병관\1411_안병관\project2\fileio.c(57): warning C4028: 정식 매개 변수 2이(가) 선언과 다릅니다.
+c:\users\user\desktop\1411_안병관\1411_안병관\project2\fileio.c(58): warning C4047: '초기화 중': 'int'의 간접 참조 수준이 'HINSTANCE'과(와) 다릅니다.
+c:\users\user\desktop\1411_안병관\1411_안병관\project2\fileio.c(85): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  Project2.vcxproj -> C:\Users\user\Desktop\1411_안병관\1411_안병관\x64\Debug\OneClick.exe
+  Project2.vcxproj -> C:\Users\user\Desktop\1411_안병관\1411_안병관\x64\Debug\OneClick.pdb (Partial PDB)
